@@ -1,0 +1,2741 @@
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [12/Nov/2025 18:19:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:07] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:08] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:09] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:17] "GET /data HTTP/1.0" 200 -
+192.168.0.107 - - [12/Nov/2025 18:19:17] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:19] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:20] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:21] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:39] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:19:54] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [12/Nov/2025 18:19:58] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:16] "GET /data HTTP/1.0" 200 -
+192.168.0.107 - - [12/Nov/2025 18:20:17] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:22] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [12/Nov/2025 18:20:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [12/Nov/2025 18:20:32] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.61:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.61:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.61:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+10.40.186.190 - - [17/Feb/2026 07:42:19] "GET / HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10.40.186.190 - - [17/Feb/2026 07:42:22] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:24] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:26] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:28] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:30] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:32] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:34] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:36] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:38] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:40] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:43] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:45] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:47] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:49] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:51] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:53] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:55] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:57] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:42:58] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:00] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:02] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:04] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:05] "GET / HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:07] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:09] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:09] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:09] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:10] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:10] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:11] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:12] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:12] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:13] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:13] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:13] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:15] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:17] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:18] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:18] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:19] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:21] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:22] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:22] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:23] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:23] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:23] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:24] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:24] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:26] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:26] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:27] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:27] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:28] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:29] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:29] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:29] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:29] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:30] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:31] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:31] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:31] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:33] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:35] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:37] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:39] "POST /control HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:39] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:39] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:41] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:43] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:45] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:47] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:49] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:51] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:53] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:55] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:43:57] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:00] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:02] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:04] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:06] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:08] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:11] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:12] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:14] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:16] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:18] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:20] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:22] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:23] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:27] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:32] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:34] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:36] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:38] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:40] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:42] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:44] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:46] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:48] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:50] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:52] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:54] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:56] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:44:58] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:00] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:02] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:04] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:06] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:08] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:10] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:12] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:14] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:16] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:18] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:21] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:22] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:24] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:26] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:28] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:30] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:32] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:36] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:37] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:39] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:41] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:44] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:46] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:48] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:51] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:52] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:54] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:56] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:45:58] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:00] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:03] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:04] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:06] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:08] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:10] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:12] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:14] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:16] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:18] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:20] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:22] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:24] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:26] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:28] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:30] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:32] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:34] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:36] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:38] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:40] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:42] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:44] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:46] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:48] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:50] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:52] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:54] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:56] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:46:58] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:00] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:02] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:04] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:06] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:08] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:10] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:12] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:14] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:16] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:18] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:47:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:48:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:49:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:50:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:51:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:52:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:53:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:54:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:55:25] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:56:26] "GET /data HTTP/1.1" 200 -
+10.40.186.190 - - [17/Feb/2026 07:57:25] "GET /data HTTP/1.1" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 52, in <module>
+    db = SQLAlchemy(app)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/flask_sqlalchemy/extension.py", line 278, in __init__
+    self.init_app(app)
+    ~~~~~~~~~~~~~^^^^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/flask_sqlalchemy/extension.py", line 355, in init_app
+    raise RuntimeError(
+        "Either 'SQLALCHEMY_DATABASE_URI' or 'SQLALCHEMY_BINDS' must be set."
+    )
+RuntimeError: Either 'SQLALCHEMY_DATABASE_URI' or 'SQLALCHEMY_BINDS' must be set.
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:67: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.61:5000
+[33mPress CTRL+C to quit[0m
+192.168.1.60 - - [17/Feb/2026 09:56:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 09:56:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 09:57:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 09:57:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 09:58:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 09:58:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 09:59:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 09:59:26] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:11] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:12] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [17/Feb/2026 10:00:12] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+192.168.1.60 - - [17/Feb/2026 10:00:12] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:14] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:14] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:16] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:18] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:18] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:19] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:20] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+192.168.1.60 - - [17/Feb/2026 10:00:20] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:21] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:22] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:24] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [17/Feb/2026 10:00:24] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+192.168.1.60 - - [17/Feb/2026 10:00:24] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:25] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:26] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:27] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:28] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:29] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:30] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:31] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:32] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:33] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:34] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:36] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:36] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:38] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:38] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:40] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:40] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:41] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:42] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:44] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:44] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:45] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:46] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:48] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:48] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:49] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:50] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:52] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:52] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:53] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:54] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:56] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:56] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:58] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:00:58] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:00:59] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:00] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:02] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:02] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:03] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:04] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:06] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:06] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:07] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:08] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:09] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:10] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:11] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:12] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:14] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:24] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:01:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:01:35] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:02:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:02:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:02:37] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:03:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:03:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:03:26] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:04:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:04:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:04:37] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:05:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:05:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:05:26] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:06:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:06:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:06:37] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:67: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.61:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:67: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.61:5000
+[33mPress CTRL+C to quit[0m
+192.168.1.60 - - [17/Feb/2026 10:07:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:07:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:07:26] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:08:25] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:08:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:08:37] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:09] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:10] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:12] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:14] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:16] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:18] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:20] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:22] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:24] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:25] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:09:26] "GET /data HTTP/1.0" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:26] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:28] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:43] "GET / HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:46] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:48] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:50] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:52] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:54] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:56] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:58] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:58] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:09:59] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:10:00] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:10:01] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:10:02] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:10:03] "GET /data HTTP/1.1" 200 -
+192.168.1.60 - - [17/Feb/2026 10:10:04] "GET /data HTTP/1.1" 200 -
+127.0.0.1 - - [17/Feb/2026 10:10:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [17/Feb/2026 10:10:05] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:67: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:67: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 08:19:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:19:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:20:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:20:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:20:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:20:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:20:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:21:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:22:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:14] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:16] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:22] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:23] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:24] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:24] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:26] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:26] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:27] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:27] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:28] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:28] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:29] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:29] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:30] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:30] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:30] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:48] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:23:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:22] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:27] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:30] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:24:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:25:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:26:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:27:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:28:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:29:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:30:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:07] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:07] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:31:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:32:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:33:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:34:48] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:72: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 08:47:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:26] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:27] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:31] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:33] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:33] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:34] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:47:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:48:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:49:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:50:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:50:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:50:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:50:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:03] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:09] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:11] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:11] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:34] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:40] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:41] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:42] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:43] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:44] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:44] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:45] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:45] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:48] "POST /change_fish HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:51:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:30] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:72: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 08:52:36] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:36] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:52:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:53:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:54:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:55:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:56:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:57:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 08:58:48] "GET /data HTTP/1.0" 200 -
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        /home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:72: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:00:40] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:40] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Feb/2026 09:00:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:49] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:51] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:52] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:00:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:25] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:42] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:22:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:17] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:23:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:29] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:24:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:25:52] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:25:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:26:00] "GET /data HTTP/1.0" 200 -
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 2, in <module>
+    from flask_sqlalchemy import SQLAlchemy
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/flask_sqlalchemy/__init__.py", line 5, in <module>
+    from .extension import SQLAlchemy
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/flask_sqlalchemy/extension.py", line 9, in <module>
+    import sqlalchemy as sa
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/__init__.py", line 13, in <module>
+    from .engine import AdaptedConnection as AdaptedConnection
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/engine/__init__.py", line 18, in <module>
+    from . import events as events
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/engine/events.py", line 19, in <module>
+    from .base import Connection
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/engine/base.py", line 28, in <module>
+    from .interfaces import BindTyping
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/engine/interfaces.py", line 37, in <module>
+    from ..sql.compiler import Compiled as Compiled
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/sql/__init__.py", line 145, in <module>
+    __go(locals())
+    ~~~~^^^^^^^^^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/sql/__init__.py", line 138, in __go
+    _prepare_annotations(ColumnElement, AnnotatedColumnElement)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/sql/annotation.py", line 587, in _prepare_annotations
+    _new_annotation_type(cls, base_cls)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/sql/annotation.py", line 557, in _new_annotation_type
+    type("Annotated%s" % cls.__name__, (base_cls, cls), {}),
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/sqlalchemy/sql/functions.py", line 1524, in __init_subclass__
+    def __init_subclass__(cls) -> None:
+    
+KeyboardInterrupt
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:30:22] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:30:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:31:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:17] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:32:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:32] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:32:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:33:27] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:38:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:55] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:57] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:57] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:58] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:58] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:59] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:38:59] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:00] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:39:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:40:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:41:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:41:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:42:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:42:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:45] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:43:51] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:43:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:44:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:06] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:45:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:49] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:45:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:45:59] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 09:46:14] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:50] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:46:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:47:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:48:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:48:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:48:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:48:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:48:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 09:49:48] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:03:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:14] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:14] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:03:56] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:04:03] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:04] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:06] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:32] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:37] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:04:51] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:04:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:20] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:05:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:06:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:09] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:25] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:25] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:27] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:31] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:07:36] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:36] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:37] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:38] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:38] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:39] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:39] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:39] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:41] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:41] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:41] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:41] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:42] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:43] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:43] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:44] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:45] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:45] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:45] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:48] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:49] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:51] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:52] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:52] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:53] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:54] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:54] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:55] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:56] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:56] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:56] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:57] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:57] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:58] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:58] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:58] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:59] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:07:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:05] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:05] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:13] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:17] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:08:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:24] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:28] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:28] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:28] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:29] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:29] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:30] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:42] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:44] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:47] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:48] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:50] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:52] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:08:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:00] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:04] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:06] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:10] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:12] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:13] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:18] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:09:21] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:22] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:24] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:36] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:42] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:09:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:47] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:50] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:51] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:52] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:53] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:53] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:54] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:54] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:56] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:09:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:03] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:10:07] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:08] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:08] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:11] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:14] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:16] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:18] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:10:20] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:73: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:15:24] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:25] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [18/Feb/2026 10:15:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:31] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:32] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:32] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:33] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:33] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:34] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:57] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:15:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:16:01] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:16:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:16:05] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:74: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:30:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:38] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:30:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:31:48] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:74: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.172.155.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [18/Feb/2026 10:32:23] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:32:26] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:32:28] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:32:30] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:32:32] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:32:34] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [18/Feb/2026 10:32:36] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:74: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:74: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:74: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:74: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.68.62.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [20/Feb/2026 03:38:13] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:15] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:17] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:19] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:21] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:23] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:25] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:27] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:29] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:31] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:33] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:35] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:37] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:39] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:41] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:43] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:46] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:47] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:49] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:51] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:55] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:58] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:38:59] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:39:02] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:39:03] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 03:39:49] "GET /data HTTP/1.0" 200 -
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM1'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM1', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM1: [Errno 2] No such file or directory: '/dev/ttyACM1'
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.68.62.2:5000
+[33mPress CTRL+C to quit[0m
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyACM0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/admin/Desktop/La_Tuyo/app.py", line 26, in <module>
+    ser = serial.Serial('/dev/ttyACM0', 9600, timeout=1)
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialutil.py", line 244, in __init__
+    self.open()
+    ~~~~~~~~~^^
+  File "/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.68.62.2:5000
+[33mPress CTRL+C to quit[0m
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.68.62.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [20/Feb/2026 04:43:38] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:39] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Feb/2026 04:43:40] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:48] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:51] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:53] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:54] "POST /control HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:54] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:43:55] "GET /data HTTP/1.0" 200 -
+/home/admin/Desktop/La_Tuyo/venv/lib/python3.13/site-packages/gpiozero/devices.py:300: PinFactoryFallback: Falling back from lgpio: No module named 'lgpio'
+  warnings.warn(
+/home/admin/Desktop/La_Tuyo/app.py:101: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  datetime = db.Column(db.DateTime, default=datetime.utcnow())
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.68.62.2:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [20/Feb/2026 04:48:46] "GET / HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:48:46] "[33mGET /favicon.ico HTTP/1.0[0m" 404 -
+127.0.0.1 - - [20/Feb/2026 04:48:48] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:48:50] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:48:53] "GET /data HTTP/1.0" 200 -
+127.0.0.1 - - [20/Feb/2026 04:48:55] "GET /data HTTP/1.0" 200 -

@@ -1,0 +1,40 @@
+# --- Byte-compiled / optimized / DLL files ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments ---
+.venv/
+venv/
+ENV/
+env/
+# For Pipenv
+.venv
+Pipfile.lock
+
+# --- Distribution / Packaging ---
+dist/
+build/
+*.egg-info/
+*.egg
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# --- Environment Variables (SENSITIVE) ---
+.env
+.flaskenv
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock %} - FlaskApp</title>
+    <style>
+        .title {
+            margin: 5px;
+        }
+
+        .content {
+            margin: 5px;
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+
+        .record {
+            flex: 20%;
+            padding: 10px;
+            margin: 5px;
+            background-color: #f3f3f3;
+            inline-size: 100%;
+        }
+
+   
+    </style>
+</head>
+<body>
+    <h1 class="title">Records</h1>
+    <div class="content">
+        {% for record in records %}
+            <div class="record">
+                <p><b>#{{ record.id }}</b></p>
+                <b>
+                    <p class="name">{{ record.datetime }}</p>
+                </b>
+                <p>Fish Name{{ record.fishname }}</p>
+                <p>Temp: {{ record.temperature }}deg Celsius</p>
+                <p>Hum: {{ record.humidity }}%</p>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
