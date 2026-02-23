@@ -4,74 +4,127 @@
   <meta charset="UTF-8">
   <title>Raspberry Pi Heater Control</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body class="bg-gray-100 text-gray-900">
+<body class="bg-gray-100 text-gray-900 pb-10">
   <div class="max-w-lg mx-auto mt-10 p-6 bg-white rounded-2xl shadow-lg text-center">
     <h1 class="text-3xl font-bold mb-6 text-indigo-700">Heater Control Dashboard</h1>
 
-    <!-- Sensor Readings -->
+    <div class="mb-4 text-sm text-indigo-600 font-medium">
+        <a href="/data_table" class="hover:underline">View History Table</a>
+    </div>
+
     <div class="grid grid-cols-2 gap-4 mb-8">
       <div class="p-4 bg-indigo-50 rounded-lg shadow">
         <h2 class="text-xl font-semibold text-indigo-600">Temperature</h2>
-        <p id="temp" class="text-3xl font-bold mt-2">{{ data.temperature or "N/A" }}°C</p>
+        <p id="temp" class="text-3xl font-bold mt-2">{{ data.temperature or "0.0" }}°C</p>
       </div>
       <div class="p-4 bg-blue-50 rounded-lg shadow">
         <h2 class="text-xl font-semibold text-blue-600">Humidity</h2>
-        <p id="hum" class="text-3xl font-bold mt-2">{{ data.humidity or "N/A" }}%</p>
+        <p id="hum" class="text-3xl font-bold mt-2">{{ data.humidity or "0.0" }}%</p>
       </div>
     </div>
 
-    <div class="p-4 bg-blue-50 rounded-lg shadow">
-        <h2 class="text-xl font-semibold text-blue-600">Fish Name</h2>
-        <input type="text" id="fishName"><br>
-        <p id="fish" class="text-3xl font-bold mt-2">{{ data.fishname}}</p>
-        <button id="changeFish" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg shadow">Change Fish</button>
+    <div class="mb-8 p-4 bg-white border border-gray-200 rounded-lg shadow-sm">
+      <h2 class="text-lg font-semibold mb-4 text-gray-700">Environment History</h2>
+      <canvas id="sensorChart" width="400" height="200"></canvas>
     </div>
 
-    <!-- Relay Controls -->
+    <div class="p-4 bg-blue-50 rounded-lg shadow mb-8">
+        <h2 class="text-xl font-semibold text-blue-600 mb-2">Active Species</h2>
+        <select id="fishName" class="w-full border border-blue-200 rounded-lg px-3 py-2 mb-3 text-center bg-white outline-none focus:ring-2 focus:ring-blue-400">
+            <option value="Tilapia">Tilapia</option>
+            <option value="Bangus">Bangus</option>
+            <option value="Kanduli">Kanduli</option>
+        </select>
+        <p id="fish" class="text-2xl font-bold mb-2 text-gray-800 capitalize">{{ data.fishname }}</p>
+        <button id="changeFish" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg shadow w-full transition">Update Species</button>
+    </div>
+
     <div class="space-y-6">
       <div>
         <h2 class="text-xl font-semibold mb-2">Heater Lamp</h2>
         <div class="flex justify-center space-x-4">
-          <button id="lampOn" class="px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg shadow">Turn ON</button>
-          <button id="lampOff" class="px-4 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg shadow">Turn OFF</button>
+          <button id="lampOn" class="px-6 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg shadow">ON</button>
+          <button id="lampOff" class="px-6 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg shadow">OFF</button>
         </div>
       </div>
 
       <div>
         <h2 class="text-xl font-semibold mb-2">Heater Fan</h2>
         <div class="flex justify-center space-x-4">
-          <button id="fanOn" class="px-4 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg shadow">Turn ON</button>
-          <button id="fanOff" class="px-4 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg shadow">Turn OFF</button>
+          <button id="fanOn" class="px-6 py-2 bg-green-600 hover:bg-green-700 text-white rounded-lg shadow">ON</button>
+          <button id="fanOff" class="px-6 py-2 bg-red-600 hover:bg-red-700 text-white rounded-lg shadow">OFF</button>
         </div>
       </div>
     </div>
 
-    <!-- Status Section -->
     <div class="mt-8 p-3 bg-gray-50 rounded-xl text-sm text-gray-600">
-      <p><b>Lamp:</b> <span id="lampStatus">{{ 'OFF' if data.heater_lamp else 'ON' }}</span></p>
-      <p><b>Fan:</b> <span id="fanStatus">{{ 'OFF' if data.heater_fan else 'ON' }}</span></p>
+      <p><b>Lamp:</b> <span id="lampStatus">{{ 'ON' if data.heater_lamp else 'OFF' }}</span></p>
+      <p><b>Fan:</b> <span id="fanStatus">{{ 'ON' if data.heater_fan else 'OFF' }}</span></p>
     </div>
   </div>
 
   <script>
+    let sensorChart;
+
+    async function initChart() {
+      const res = await fetch('/api/history');
+      const history = await res.json();
+      
+      const ctx = document.getElementById('sensorChart').getContext('2d');
+      sensorChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: history.labels,
+          datasets: [
+            {
+              label: 'Temp (°C)',
+              data: history.temp,
+              borderColor: '#6366f1',
+              backgroundColor: 'rgba(99, 102, 241, 0.1)',
+              yAxisID: 'y',
+              tension: 0.3,
+              fill: true
+            },
+            {
+              label: 'Hum (%)',
+              data: history.hum,
+              borderColor: '#3b82f6',
+              yAxisID: 'y1',
+              tension: 0.3
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          scales: {
+            y: { type: 'linear', display: true, position: 'left' },
+            y1: { type: 'linear', display: true, position: 'right', grid: { drawOnChartArea: false } }
+          }
+        }
+      });
+    }
+
     async function updateData() {
-      const res = await fetch('/data');
-      const json = await res.json();
-      document.getElementById('temp').textContent = `${json.temperature}°C` ?? "N/A";
-      document.getElementById('hum').textContent = `${json.humidity}%` ?? "N/A";
-      document.getElementById('lampStatus').textContent = json.heater_lamp ? "OFF" : "ON";
-      document.getElementById('fanStatus').textContent = json.heater_fan ? "OFF" : "ON";
-      document.getElementById('fish').textContent = json.fishname 
+      try {
+        const res = await fetch('/data');
+        const json = await res.json();
+        document.getElementById('temp').textContent = `${json.temperature}°C`;
+        document.getElementById('hum').textContent = `${json.humidity}%`;
+        document.getElementById('lampStatus').textContent = json.heater_lamp ? "ON" : "OFF";
+        document.getElementById('fanStatus').textContent = json.heater_fan ? "ON" : "OFF";
+        document.getElementById('fish').textContent = json.fishname;
+      } catch (e) { console.error("Update failed", e); }
     }
 
     async function control(device, state) {
       await fetch('/control', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({ device, state})
+        body: JSON.stringify({ device, state })
       });
       updateData();
     }
@@ -80,19 +133,21 @@
       await fetch('/change_fish', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
-        body: JSON.stringify({ fishname})
+        body: JSON.stringify({ fishname })
       });
-      document.getElementById('fish').textContent = fishname
       updateData();
     }
 
-    document.getElementById('lampOn').onclick = () => control('lamp',false)
-    document.getElementById('lampOff').onclick = () => control('lamp',true)
-    document.getElementById('fanOn').onclick = () => control('fan',false)
-    document.getElementById('fanOff').onclick = () => control('fan', true)
-    document.getElementById('changeFish').onclick = () => change_fish(document.getElementById('fishName').value)
+    document.getElementById('lampOn').onclick = () => control('lamp', true);
+    document.getElementById('lampOff').onclick = () => control('lamp', false);
+    document.getElementById('fanOn').onclick = () => control('fan', true);
+    document.getElementById('fanOff').onclick = () => control('fan', false);
+    document.getElementById('changeFish').onclick = () => change_fish(document.getElementById('fishName').value);
 
-    setInterval(updateData, 2000);
+    initChart();
+    updateData();
+    setInterval(updateData, 5000);
+    setInterval(() => location.reload(), 180000); 
   </script>
 </body>
 </html>
